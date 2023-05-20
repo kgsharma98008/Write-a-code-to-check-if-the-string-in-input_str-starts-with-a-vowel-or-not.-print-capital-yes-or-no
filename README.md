@@ -1,0 +1,1 @@
+# Write-a-code-to-check-if-the-string-in-input_str-starts-with-a-vowel-or-not.-print-capital-yes-or-no
